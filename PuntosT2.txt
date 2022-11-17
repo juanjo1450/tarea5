@@ -1,0 +1,6 @@
+1,4.3,6,Pizza Huut
+2,5,5.3,McDonal
+3,2,5,KFC
+4,6,4,Taco Bell
+5,4,3,Campero
+6,2,2.3,Burger King
